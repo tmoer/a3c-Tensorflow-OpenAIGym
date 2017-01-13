@@ -8,5 +8,5 @@ Unfinished, but I am not actively working on this right now.
 Dependencies: Tensorflow, OpenAI Gym and TFLearn. 
 
 To run: 
-cd <to_the_folder>
+cd to-the-folder
 python3 a3c.py
